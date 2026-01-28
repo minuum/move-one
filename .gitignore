@@ -1,0 +1,14 @@
+# Large folders ignored
+dobot_e6_vlm_frozen/
+jetson_pytorch/
+openpi/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
